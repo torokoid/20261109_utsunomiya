@@ -236,7 +236,7 @@ p.note { display: none; }
 <h2><span class="yellow">迷路チャレンジを上から見ました</span></h2>
 <a href="20261109_00020.jpeg" target="_blank"><img src="20261109_00020.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">午後の迷路が再開されて、1番乗りのスタートからゴールまで</span></h2>
+<h2><span class="yellow">午後の迷路が再開されて、1番乗りの男の子のスタートからゴールまで</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEdGJgG2hkYc?si=3_ErkESWmQ9GKjMZ&autoplay=1&mute=1&loop=1&playlist=EdGJgG2hkYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
